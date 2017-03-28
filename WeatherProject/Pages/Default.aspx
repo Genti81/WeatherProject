@@ -144,7 +144,7 @@
 		 
 				<div id="chartDiv">
 
-					 <div class="">
+					 
 
 						  <h2>Väder Rapport</h2>
 						  <h4>Chart line - sträcker sig i dagar jämfört med temperatur</h4>
@@ -152,7 +152,7 @@
 									 <canvas id="myChart3"></canvas>
 			   </div>
 						 
-					 </div>
+					 
 			   </div>
 	   
 	 </div>
