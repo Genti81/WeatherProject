@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Images">
+    <File Path="Images\AppIcon.png" Url="Images/AppIcon.png" ReplaceContent="TRUE" />
+    <File Path="Images\backgr.jpg" Url="Images/backgr.jpg" ReplaceContent="TRUE" />
+    <File Path="Images\images.jpg" Url="Images/images.jpg" ReplaceContent="TRUE" />
+    <File Path="Images\maxre.jpg" Url="Images/maxre.jpg" ReplaceContent="TRUE" />
+    <File Path="Images\maxresdefault.jpg" Url="Images/maxresdefault.jpg" ReplaceContent="TRUE" />
+    <File Path="Images\n2UtdJe.jpg" Url="Images/n2UtdJe.jpg" ReplaceContent="TRUE" />
+    <File Path="Images\partly_sunny.jpg" Url="Images/partly_sunny.jpg" ReplaceContent="TRUE" />
+    <File Path="Images\sky-blue.jpg" Url="Images/sky-blue.jpg" ReplaceContent="TRUE" />
+    <File Path="Images\sunrise.png" Url="Images/sunrise.png" ReplaceContent="TRUE" />
+    <File Path="Images\sunset.png" Url="Images/sunset.png" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

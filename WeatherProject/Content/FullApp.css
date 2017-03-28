@@ -1,0 +1,58 @@
+﻿.body_image {
+    background-color: mediumaquamarine;
+    /*background-image: url('../Images/maxresdefault.jpg');
+    background-repeat: repeat-y;*/
+    opacity: 0.9;
+}
+
+.back_image {
+    /* 
+    background-image: url('../Images/maxre.jpg';
+    background-repeat: repeat-x;
+    opacity: 1;
+    */
+    color: white;
+    height:100%;
+    background-color: #6495ED;
+}
+
+.forstaDiv {
+    opacity: 0.7;
+    padding-bottom: 22px
+}
+
+.andraDiv {
+    opacity:0.7;
+}
+
+.tredjeDiv {
+    opacity: 0.7;
+}
+
+.fjardeDiv {opacity:0.7}
+
+
+/*
+
+    Table style
+
+*/
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    border-bottom: 4px solid aqua
+}
+
+td {
+    border-bottom: 4px solid aqua
+}
